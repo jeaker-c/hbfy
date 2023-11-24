@@ -1,0 +1,234 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+._形状 {
+}
+._图片_ {
+}
+.box_1 {
+  font-size:20px;
+  color:#F2F2F2;
+}
+._一级标题 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+._文本链接 {
+  color:#0000FF;
+}
+.arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.menu_item {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+._流程形状 {
+}
+._连接 {
+}
+.icon {
+}
+.chart_-_blue {
+}
+._链接按下 {
+}
+._订单管理表头 {
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#000000;
+  text-align:left;
+  line-height:20px;
+}
+._新的样式1 {
+}
+._订单数据表 {
+  font-size:20px;
+  color:#000000;
+}
+._默认样式 {
+}
+._文本链接1 {
+  color:#409EFF;
+}
+._链接悬停 {
+  color:#66B1FF;
+}
+._链接按下1 {
+}
+.box_3 {
+}
+._链接悬停1 {
+}
+.box_11 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+.box_2 {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.box_12 {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+._下拉列表框 {
+  font-size:20px;
+  color:#000000;
+  text-align:left;
+}
+.line {
+}
+._形状1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
+}
+._下拉列表框1 {
+  font-size:20px;
+  color:#000000;
+  text-align:left;
+}
+._图片 {
+}
+.refs-chart-data {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.image {
+}
+.vertical_line {
+}
+.paragraph1 {
+  text-align:left;
+}
+.shape {
+}
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.image1 {
+  color:#000000;
+}
+.label1 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:34px;
+  color:#000000;
+  text-align:left;
+}
+.text_field1 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:34px;
+  color:#000000;
+  text-align:left;
+}
+.flow_shape {
+}
+.checkbox {
+  text-align:left;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+._订单详情列表表头 {
+  font-size:20px;
+  color:#000000;
+}
+textarea, select, input, button { outline: none; }
